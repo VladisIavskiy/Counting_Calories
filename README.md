@@ -1,6 +1,6 @@
 # Counting_Calories - кроссплатформенное приложение для учёта калорий
 
-<div align="center"> <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/XAML-0C54C2?logo=xaml&logoColor=white"> <img src="https://img.shields.io/badge/license-MIT-blue"> </div>
+<div align="center"> <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/XAML-0C54C2?logo=xaml&logoColor=white"> </div>
 
 🍎 О проекте
 Интеллектуальный помощник для контроля питания с расширенными возможностями:
