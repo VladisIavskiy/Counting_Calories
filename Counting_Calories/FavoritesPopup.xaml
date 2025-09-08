@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Counting_Calories.FavoritesPopup"
+             BackgroundColor="White"
+             Padding="10">
+
+    <Frame CornerRadius="10" BackgroundColor="White" HasShadow="True">
+        <StackLayout Spacing="10">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Label Text="Избранное" FontSize="18" FontAttributes="Bold" VerticalOptions="Center" />
+
+                <Button Text="✖"
+                Clicked="OnCloseClicked"
+                Grid.Column="1"
+                BackgroundColor="Transparent"
+                TextColor="Black"
+                FontSize="18"
+                Padding="5"
+                HorizontalOptions="End"/>
+            </Grid>
+
+            <Button Text="Очистить всё"
+            BackgroundColor="Crimson"
+            TextColor="White"
+            Clicked="OnClearFavoritesClicked"
+            HorizontalOptions="Center" />
+
+            <CollectionView x:Name="FavoritesList">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Orientation="Horizontal" Padding="5" Spacing="10">
+                            <Label Text="{Binding Name}" FontSize="16" VerticalOptions="Center"/>
+                            <Button Text="➕" Clicked="OnAddClicked" CommandParameter="{Binding}" />
+                            <Button Text="🗑" Clicked="OnRemoveClicked" CommandParameter="{Binding}" />
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+        </StackLayout>
+
+    </Frame>
+</ContentView>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Counting_Calories.SettingsPage"
+             Title="Настройки"
+             BackgroundColor="{DynamicResource PageBackgroundColor}">
+
+    <VerticalStackLayout Padding="20" Spacing="30">
+
+        <Label Text="Настройки"
+               FontSize="28"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               TextColor="{DynamicResource TextColor}" />
+
+        <Frame CornerRadius="12"
+               Padding="20"
+               BackgroundColor="{DynamicResource SectionBackgroundColor}"
+               HasShadow="True">
+
+            <VerticalStackLayout Spacing="15">
+
+                <Button x:Name="ThemeButton"
+                        Text="Тема:"
+                        Clicked="OnThemeButtonClicked"
+                        BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                        TextColor="{DynamicResource ButtonTextColor}"
+                        FontSize="18"
+                        CornerRadius="10"
+                        HeightRequest="50" />
+
+            </VerticalStackLayout>
+        </Frame>
+    </VerticalStackLayout>
+</ContentPage>

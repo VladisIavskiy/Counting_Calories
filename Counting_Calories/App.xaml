@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Counting_Calories.App">
+
+    <Application.Resources>
+        <!-- Глобальные цвета -->
+        <Color x:Key="PageBackgroundColor">White</Color>
+        <Color x:Key="SectionBackgroundColor">#F0F0F0</Color>
+        <Color x:Key="TextColor">Black</Color>
+        <Color x:Key="ButtonBackgroundColor">#E0E0E0</Color>
+        <Color x:Key="ButtonTextColor">Black</Color>
+
+        <!-- Стили -->
+        <Style TargetType="ContentPage">
+            <Setter Property="BackgroundColor" Value="{DynamicResource PageBackgroundColor}" />
+        </Style>
+
+        <Style TargetType="Label">
+            <Setter Property="TextColor" Value="{DynamicResource TextColor}" />
+        </Style>
+
+        <Style TargetType="Button">
+            <Setter Property="BackgroundColor" Value="{DynamicResource ButtonBackgroundColor}" />
+            <Setter Property="TextColor" Value="{DynamicResource ButtonTextColor}" />
+        </Style>
+
+        <Style TargetType="StackLayout">
+            <Setter Property="BackgroundColor" Value="{DynamicResource SectionBackgroundColor}" />
+        </Style>
+
+    </Application.Resources>
+
+</Application>

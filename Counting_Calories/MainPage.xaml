@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Counting_Calories.MainPage"
+             BackgroundColor="{DynamicResource PageBackgroundColor}">
+
+    <VerticalStackLayout Padding="30" Spacing="30">
+
+            <!-- Кнопка настроек -->
+            <Button Text="⚙️"
+                    Clicked="OnSettingsClicked"
+                    WidthRequest="50"
+                    HeightRequest="50"
+                    FontSize="24"
+                    BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                    TextColor="{DynamicResource ButtonTextColor}"
+                    CornerRadius="25"
+                    HorizontalOptions="End"/>
+
+            <!-- Название приложения -->
+        <Label Text="Calories++"
+               FontSize="42"
+               FontAttributes="Bold"
+               TextColor="{DynamicResource TextColor}"
+               HorizontalOptions="Center"/>
+
+        <!-- Кнопки приёмов пищи -->
+        <Frame Padding="20"
+               CornerRadius="16"
+               BackgroundColor="{DynamicResource SectionBackgroundColor}"
+               HasShadow="True">
+
+            <VerticalStackLayout Spacing="20">
+                <Button Text="Завтрак"
+                        Clicked="AddBreakfast"
+                        BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                        TextColor="{DynamicResource ButtonTextColor}"
+                        FontSize="20"
+                        CornerRadius="10"
+                        HeightRequest="50"/>
+
+                <Button Text="Обед"
+                        Clicked="AddLunch"
+                        BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                        TextColor="{DynamicResource ButtonTextColor}"
+                        FontSize="20"
+                        CornerRadius="10"
+                        HeightRequest="50"/>
+
+                <Button Text="Ужин"
+                        Clicked="AddDinner"
+                        BackgroundColor="{DynamicResource ButtonBackgroundColor}"
+                        TextColor="{DynamicResource ButtonTextColor}"
+                        FontSize="20"
+                        CornerRadius="10"
+                        HeightRequest="50"/>
+            </VerticalStackLayout>
+        </Frame>
+
+    </VerticalStackLayout>
+</ContentPage>

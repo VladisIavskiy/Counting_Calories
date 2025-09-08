@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|c:\\users\\vladf\\source\\repos\\counting_calories\\counting_calories\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|solutionrelative:counting_calories\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|c:\\users\\vladf\\source\\repos\\counting_calories\\counting_calories\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|solutionrelative:counting_calories\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|c:\\users\\vladf\\source\\repos\\counting_calories\\counting_calories\\mealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|solutionrelative:counting_calories\\mealpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|c:\\users\\vladf\\source\\repos\\counting_calories\\counting_calories\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|solutionrelative:counting_calories\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|c:\\users\\vladf\\source\\repos\\counting_calories\\counting_calories\\counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|solutionrelative:counting_calories\\counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|c:\\users\\vladf\\source\\repos\\counting_calories\\counting_calories\\lunchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|solutionrelative:counting_calories\\lunchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|c:\\users\\vladf\\source\\repos\\counting_calories\\counting_calories\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|solutionrelative:counting_calories\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|c:\\users\\vladf\\source\\repos\\counting_calories\\counting_calories\\favoritespopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453DDB25-A455-4F24-9394-64FD7DF4DCE6}|Counting_Calories\\Counting_Calories.csproj|solutionrelative:counting_calories\\favoritespopup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Counting_Calories\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\MainPage.xaml",
+              "RelativeToolTip": "Counting_Calories\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T07:39:18.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counting.cs",
+              "DocumentMoniker": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\Counting.cs",
+              "RelativeDocumentMoniker": "Counting_Calories\\Counting.cs",
+              "ToolTip": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\Counting.cs",
+              "RelativeToolTip": "Counting_Calories\\Counting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:46:58.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LunchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\LunchPage.xaml.cs",
+              "RelativeDocumentMoniker": "Counting_Calories\\LunchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\LunchPage.xaml.cs",
+              "RelativeToolTip": "Counting_Calories\\LunchPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:21:41.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\App.xaml",
+              "RelativeDocumentMoniker": "Counting_Calories\\App.xaml",
+              "ToolTip": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\App.xaml",
+              "RelativeToolTip": "Counting_Calories\\App.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T05:15:21.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MealPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\MealPage.xaml.cs",
+              "RelativeDocumentMoniker": "Counting_Calories\\MealPage.xaml.cs",
+              "ToolTip": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\MealPage.xaml.cs",
+              "RelativeToolTip": "Counting_Calories\\MealPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:22:50.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavoritesPopup.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\FavoritesPopup.xaml.cs",
+              "RelativeDocumentMoniker": "Counting_Calories\\FavoritesPopup.xaml.cs",
+              "ToolTip": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\FavoritesPopup.xaml.cs",
+              "RelativeToolTip": "Counting_Calories\\FavoritesPopup.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:21:47.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataLoader.cs",
+              "DocumentMoniker": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\DataLoader.cs",
+              "RelativeDocumentMoniker": "Counting_Calories\\DataLoader.cs",
+              "ToolTip": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\DataLoader.cs",
+              "RelativeToolTip": "Counting_Calories\\DataLoader.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:20:12.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Counting_Calories\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\vladf\\source\\repos\\Counting_Calories\\Counting_Calories\\MainPage.xaml.cs",
+              "RelativeToolTip": "Counting_Calories\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:03:06.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
